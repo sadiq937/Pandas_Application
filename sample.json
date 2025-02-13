@@ -1,0 +1,35 @@
+[
+  {
+    "student_id": "S001",
+    "name": "Alice Smith",
+    "age": 20,
+    "major": "Computer Science",
+    "grades": {
+      "math": 90,
+      "english": 85,
+      "science": 92
+    }
+  },
+  {
+    "student_id": "S002",
+    "name": "Bob Johnson",
+    "age": 22,
+    "major": "Engineering",
+    "grades": {
+      "math": 78,
+      "english": 88,
+      "physics": 95
+    }
+  },
+    {
+    "student_id": "S003",
+    "name": "Charlie Williams",
+    "age": 21,
+    "major": "Biology",
+    "grades": {
+      "math": 85,
+      "english": 92,
+      "biology": 88
+    }
+  }
+]
